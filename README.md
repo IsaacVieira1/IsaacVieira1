@@ -18,7 +18,7 @@ Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiênc
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/isaacspace?color=55960c&style=for-the-badge&labelColor=23E1AD0E&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/isaacspace?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/isaacspace?tab=followers">
@@ -32,7 +32,7 @@ Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiênc
         <img 
             alt="Visualizações do perfil" 
             title="Visualizações do perfil" 
-            src="https://komarev.com/ghpvc/?username=isaacspace&color=blue&style=for-the-badge"
+            src="https://komarev.com/ghpvc/?username=isaacspace&color=yellow&style=for-the-badge"
         />
     </a>
 </p>
@@ -45,7 +45,6 @@ Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiênc
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="React Native" title="React Native" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
