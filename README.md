@@ -32,7 +32,7 @@ Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiênc
         <img 
             alt="Visualizações do perfil" 
             title="Visualizações do perfil" 
-            src="https://komarev.com/ghpvc/?username=isaacspace&color=yellow&style=for-the-badge"
+            src="https://komarev.com/ghpvc/?username=isaacspace&color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a>
 </p>
