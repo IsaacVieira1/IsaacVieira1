@@ -1,8 +1,8 @@
-# 👨‍💻 Isaac Vieira
+# 👨‍💻 Isaac Vieira  
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`**  
 
-Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiência em JavaScript e C#. Concluí cursos completos nessas tecnologias e busco sempre aprimorar minhas habilidades. Tenho interesse em desenvolvimento de aplicações web e mobile, além de explorar abordagens modernas para criar soluções eficientes e escaláveis.
+Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiência em JavaScript e C#. Concluí cursos completos nessas tecnologias e busco sempre aprimorar minhas habilidades. Tenho interesse em desenvolvimento de aplicações web e mobile, além de explorar abordagens modernas para criar soluções eficientes e escaláveis.  
 
 <p align="center">
     <a href="https://www.linkedin.com/in/isaacspace01">
@@ -28,15 +28,23 @@ Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiênc
             src="https://custom-icon-badges.demolab.com/github/followers/isaacspace?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://github.com/isaacspace">
+        <img 
+            alt="Visualizações do perfil" 
+            title="Visualizações do perfil" 
+            src="https://komarev.com/ghpvc/?username=isaacspace&color=blue&style=for-the-badge"
+        />
+    </a>
 </p>
 
 ---
 
-### 🔧 Linguagens e Tecnologias
+### 🔧 Linguagens e Tecnologias  
 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="React Native" title="React Native" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
@@ -51,13 +59,15 @@ Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiênc
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
+
+### 📊 Estatísticas  
 
 <p align="center">
   <img 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=isaacspace&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
