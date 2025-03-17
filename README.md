@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👩🏻‍💻 Isaac Vieira
+Desenvolvedor FullStack
 
-<!--
-**IsaacVieira1/IsaacVieira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Isaac Vieira do Nascimento, tenho 18 anos e sou natural de Rondonia. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "Larissa Kich", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "Dev em Dev".
 
-Here are some ideas to get you started:
+youtube subscribers youtube views Total de estrelas Seguidores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Linguagens e Tecnologias
+HTMLCSSJavaScriptTypeScriptReactNext.jsBootstrapTailwindSASSPHPLaravelJQueryGitPython
+
+
+
+📊 Estatísticas
+GitHub Stats
+
+GitHub Stats
