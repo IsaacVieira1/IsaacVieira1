@@ -5,7 +5,7 @@
 Me chamo Isaac Vieira do Nascimento, sou desenvolvedor full-stack com experiência em JavaScript e C#. Concluí cursos completos nessas tecnologias e busco sempre aprimorar minhas habilidades. Tenho interesse em desenvolvimento de aplicações web e mobile, além de explorar abordagens modernas para criar soluções eficientes e escaláveis.  
 
 <p align="center">
-    <a href="[https://www.linkedin.com/in/isaacspace01](https://www.linkedin.com/in/isaac-vieira01)">
+    <a href="https://www.linkedin.com/in/isaac-vieira01">
         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/isaacspace">
