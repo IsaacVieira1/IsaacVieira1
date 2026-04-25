@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Isaac Vieira
 
 <p align="center">
-  <b>Senior Full Stack Engineer</b><br/>
+  <b>Full Stack Engineer</b><br/>
   Building scalable, high-performance & modern applications
 </p>
 
@@ -11,7 +11,7 @@
 
 ```ts
 const isaac = {
-  role: "Senior Full Stack Developer",
+  role: "Full Stack Developer",
   stack: ["TypeScript", "React", "Next.js", ".NET", "Node.js"],
   focus: ["Scalability", "Clean Architecture", "Performance"],
   mindset: "Problem solver & continuous learner"
@@ -66,12 +66,16 @@ const isaac = {
 ## 🤝 Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/isaac-vieira01/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="https://website-portfolio-jade-six.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Simple scales. Complexity fails."</i>
+  <i>"Smile, you're alive :)"</i>
 </p>
