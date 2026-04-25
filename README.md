@@ -77,5 +77,5 @@ const isaac = {
 ---
 
 <p align="center">
-  <i>"Smile, you're alive :)"</i>
+  <p>"Smile, you're alive :)"</p>
 </p>
