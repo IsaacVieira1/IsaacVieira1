@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Isaac Vieira</h1>
+<h1 align="center">👋 Hi, I'm Isaac Vieira</h1>
 
 <p align="center">
   <b>Full-Stack Developer · JavaScript & C# · Brazil</b>
