@@ -76,6 +76,6 @@ const isaac = {
 
 ---
 
-<p align="center">
-  <p>"Smile, you're alive :)"</p>
-</p>
+<h3 align="center">
+  Smile, you're alive :)
+</h3>
