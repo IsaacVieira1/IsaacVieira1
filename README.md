@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Isaac Vieira
+# ⚫​ Hi, I'm Isaac Vieira
 
 <p align="center">
   <b>Full Stack Engineer</b><br/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## ⚫​ About Me
 
 ```ts
 const isaac = {
@@ -20,7 +20,7 @@ const isaac = {
 
 ---
 
-## 🧠 Tech Stack
+## ⚫​ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,dotnet,cs,postgres,mysql,docker,git,linux" />
@@ -28,7 +28,7 @@ const isaac = {
 
 ---
 
-## ⚙️ Engineering
+## ⚫​ Engineering
 
 * Clean Architecture
 * SOLID Principles
@@ -38,7 +38,7 @@ const isaac = {
 
 ---
 
-## 📊 GitHub Analytics
+## ⚫​ GitHub Analytics
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsaacVieira1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -47,7 +47,7 @@ const isaac = {
 
 ---
 
-## 📈 Activity Graph
+## ⚫​ Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacVieira1&theme=tokyo-night&hide_border=true" />
@@ -55,7 +55,7 @@ const isaac = {
 
 ---
 
-## 🎯 Current Focus
+## ⚫​ Current Focus
 
 * Building scalable SaaS platforms
 * Advanced backend architecture
@@ -63,7 +63,7 @@ const isaac = {
 
 ---
 
-## 🤝 Connect
+## ⚫​ Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-vieira01/" target="_blank">
